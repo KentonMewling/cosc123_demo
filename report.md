@@ -16,3 +16,5 @@ break in list
 1. conta
 1. oof
 1. Tanner
+
+how to make *italics* use a single star 
